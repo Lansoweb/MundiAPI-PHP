@@ -13,6 +13,7 @@
             "role": "API Tool"
         }
     ],
+    "prefer-stable": true,
     "require": {
         "php": ">=5.4.0",
         "ext-curl": "*",

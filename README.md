@@ -1,5 +1,11 @@
 # Getting started
 
+> [!WARNING]
+> ## Archived
+> This payment API client is no longer maintained and will receive no further
+> releases. Use the provider's current official SDK and API documentation for
+> new integrations.
+
 Mundipagg API
 
 ## How to Build
